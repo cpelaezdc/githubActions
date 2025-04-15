@@ -6,7 +6,7 @@ from calculator import add # Import the function we want to test
 # Test Case 1: Adding two positive integers
 def test_add_positive_integers():
   """Tests adding two positive integers."""
-  assert add(2, 3) == 5
+  assert add(2, 3) == 56
 
 # Test Case 2: Adding a positive and a negative integer
 def test_add_positive_and_negative():
